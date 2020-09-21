@@ -1,0 +1,66 @@
+<html>
+  <head>
+    <title>allaboutFOOD</title>
+    <link href="style.css" rel="stylesheet"
+    type="text/css" />
+    <meta name="desciption" content="allaboutFOOD">
+  </head>
+  <body>
+    <h1>allaboutfood</h1>
+    <h2>allaboutfood</h2>
+    <h3>allaboutfood</h3>
+    <i>allabout</i>
+    <h7>food</h7>
+    <img src="https://img.kbs.co.kr/kbs/620/nsimg.kbs.co.kr/data/news/2017/02/19/3431372_lSK.jpg"/>
+    <img src="https://media.tenor.com/images/c2728e5195e25e87b540ec1a903584dc/tenor.gif"/>
+    <a href="google.com">구글</a>
+    <a href="facebook.com" target="_blank">페이스북</a>
+    <table border="8">
+      <thead>
+        <tr>
+          <th>이름</th>
+          <th>나이</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>보영</td>
+          <td>21살</td>
+        </tr>
+        <tr>
+          <td>boyoung</td>
+          <td>22y</td>
+        </tr>
+      </tbody>
+    </table>
+    <ol>
+      <li>보영</li>
+      <li>boyoung</li>
+    </ol>
+    <ul>
+      <li>보영</li>
+      <li>boyoung</li>
+    </ul>
+    <div class="top">상단</div>
+    <div class="mid">중단</div>
+    <div class="bot">하단</div>
+    <span class="like">좋아요</span>
+    <span class="sub">구독</span>
+    <span class="comment">댓글</span>
+    <input type="text"
+    <input type="checkbox" />
+    <input type="radio"
+    <input type="color"
+    <textarea></textarea>
+    <select name="name">
+      <option value="보영">보영</option>
+      <option value="boyoung">boyoung</option>
+    </select>
+    <form>
+      <input type="email" placeholder="이메일" />
+      <input type="password" placeholder="비밀번호" />
+      <button type="submit">로그인</button>
+    </form>
+    <div class="item">박보영</div>
+  </body>
+</html>
